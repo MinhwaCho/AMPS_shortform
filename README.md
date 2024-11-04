@@ -8,3 +8,5 @@ This repository contains the Pytorch implementation code for the paper "AMPS: Pr
 
 ## Dataset
 ---
+Considering the absence of publicly available datasets tailored for short-form videos, we employed the YouTube Data API to curate our dataset. This dataset encompasses comprehensive details regarding both the video content itself and the associated channel information.
+You can receive metadata and information about our dataset through a Google Drive URL.
